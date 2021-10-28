@@ -6,3 +6,5 @@ Cadastro de Funcionário<br />
 ![image](https://user-images.githubusercontent.com/78911425/139271348-28fe042b-b34c-471e-9a70-87cace092d9f.png)<br /><br />
 Pesquisa de Funcionários <br />
 ![image](https://user-images.githubusercontent.com/78911425/139271594-82de8bd2-de68-43cf-b506-d9ea343cc5ba.png)<br /><br />
+Cadastro de Kit Sala <br />
+![image](https://user-images.githubusercontent.com/78911425/139271885-698358e5-dfae-4ae9-b337-32302c70b016.png)<br /><br />
